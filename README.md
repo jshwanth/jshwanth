@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jashwanth S</h1>
-<h3 align="center">A Sophomore ISE undergrad student and an aspiring Data Scientist</h3>
+<h3 align="center">An ISE undergrad student and an aspiring Data Scientist</h3>
 
 - 🔭 I’m currently working on **Full Stack web development**
 
