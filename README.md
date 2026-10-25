@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jashwanth S</h1>
-<h3 align="center">An ISE undergrad student and an aspiring Data Scientist</h3>
+<h3 align="center">A master's student at TUHH in Data Science</h3>
 
 - 🔭 I’m currently working on **Data science projects**
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **JULIA**
 
 - 📫 How to reach me **sjashwanth488@gmail.com**
 
